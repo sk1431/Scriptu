@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scriptu - Movie Script Writing Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Scriptu</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">New Script</a></li>
+                <li><a href="#">Open Scripts</a></li>
+                <li><a href="#">Templates</a></li>
+                <li><a href="#">AI Assistance</a></li>
+                <li><a href="#">Settings</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="intro">
+            <h2>Start Writing Your Script</h2>
+            <button>New Script</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Scriptu. All rights reserved.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
 
