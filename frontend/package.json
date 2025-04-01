@@ -1,0 +1,22 @@
+// frontend/package.json
+{
+  "name": "scriptu-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+  "homepage": "https://your-username.github.io/scriptu-frontend",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
+
